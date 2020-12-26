@@ -1,5 +1,5 @@
 #include <Wire.h>
-
+//Max 32byte communctaion
 void setup()
 {
   Wire.begin(0);
